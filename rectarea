@@ -1,0 +1,7 @@
+class rectarea{
+public static void main(String [] args)
+{
+int s=2*3;
+System.out.println("area of a rect is = "+s);
+}
+}

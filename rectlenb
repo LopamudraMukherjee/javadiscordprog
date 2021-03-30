@@ -1,0 +1,9 @@
+class rectlenb{
+public static void main(String [] args)
+{
+int ar=5*7;
+int per=(2*(5+7));
+System.out.println("area "+ar+" perimeter "+per);
+}
+}
+

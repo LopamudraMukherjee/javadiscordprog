@@ -1,0 +1,8 @@
+class sqnum
+{
+public static void main(String [] args)
+{
+double x= 3.9*3.9;
+System.out.println(x);
+}
+}

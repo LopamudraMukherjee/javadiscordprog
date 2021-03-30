@@ -1,0 +1,13 @@
+import java.io.*;
+class moddiv
+{
+public static void main(String [] args)
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a 5 digit number");
+int a=sc.nectInt();
+int mod=a%10;
+int div=a/10000;
+System.out.println("first,last: "+div,mod);
+}
+}

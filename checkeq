@@ -1,0 +1,10 @@
+class checkeq
+{
+public static void main(String [] args)
+{
+if (23==45)
+System.out.println("they are equal");
+else
+System.out.println("they are not equal");
+}
+}

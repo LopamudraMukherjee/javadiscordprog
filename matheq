@@ -1,0 +1,11 @@
+import java.util.*;
+class matheq{
+public static void main(String [] args)
+{
+double x=2345+8;
+x=x/3;
+double x1=x%5;
+x1=x1*5;
+System.out.println(x1);
+}
+}

@@ -1,0 +1,11 @@
+class swap1{
+public static void main(String [] args)
+{
+ibt a=6;
+int b=8;
+int c=a;
+a=b;
+b=c;
+System.out.println("a,b="+a,b);
+}
+}

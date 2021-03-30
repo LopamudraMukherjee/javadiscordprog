@@ -1,0 +1,9 @@
+class inputtypes{
+public static void main(String [] args)
+{
+int a=5;
+double b=10.5;
+char c='d';
+System.out.println("int "+a+" double "+b+" char "+c);
+}
+}

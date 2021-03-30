@@ -1,0 +1,7 @@
+class doubleint{
+public static void main(String [] args)
+{
+double t=100.235;
+System.out.println((int)t);
+}
+}
